@@ -11,7 +11,7 @@ Plotly
 Pycountry-Convert
 
 ## Data Source
-The analysis is based on the GSAF5_file.csv available on GitHub repository, which should be placed in the /content/ directory.
+The analysis is based on the GSAF5_file.csv available on GitHub repository, which should be placed in your preferable directory.
 
 ## Main Focus
 The analyze is mainly focused on the individual activities when the attacks happened.
