@@ -20,7 +20,8 @@ The analyze is mainly focused on the individual activities when the attacks happ
 * Data cleaning and normalization including handling of country names and converting activity descriptions into categorized groups.
 
 * Visualization of global shark incidents by country using a choropleth map.
-Analysis of incidents over time, categorized by outcome (yes/no).
+
+* Analysis of incidents over time, categorized by outcome (yes/no).
 
 * Statistical summaries of incidents by activity group, year, country, and continent.
 
@@ -39,9 +40,9 @@ Run the script to perform analysis and generate visualizations.
 * Visualization: Utilizing Plotly to create interactive charts and maps for insights into shark incidents.
 
 ## Visualizations
-Global map of shark incidents by country.
-Bar charts showing monthly incidents over time.
-Analysis of incidents by activity group, including fishing, water sports, swimming, and surfing.
+* Global map of shark incidents by country.
+* Bar charts showing monthly incidents over time.
+* Analysis of incidents by activity group, including fishing, water sports, swimming, and surfing.
 
 ## Limitations
 The analysis might be limited by the completeness and accuracy of the data in GSAF5_file.csv.
