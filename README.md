@@ -25,7 +25,7 @@ The analyze is mainly focused on the individual activities when the attacks happ
 
 * Statistical summaries of incidents by activity group, year, country, and continent.
 
-*Custom functions for data transformation and analysis, such as converting country names to continents, categorizing activities, and calculating adjusted risk scores.
+* Custom functions for data transformation and analysis, such as converting country names to continents, categorizing activities, and calculating adjusted risk scores.
 
 ## Usage
 Ensure all dependencies are installed using pip install pandas numpy plotly pycountry-convert.
